@@ -4,7 +4,7 @@
             <td width="23" rowspan="2">&nbsp;</td>
             <td height="119" colspan="2" bgcolor="#006600">
 <<<<<<< HEAD:contact.php.txt
-                <h1><center><font color="#FFFFFF">อพาร์ตเมนต์</font></center></h1>
+                <h1><center><font color="#FFFFFF">222อพาร์ตเมนต์</font></center></h1>
 =======
                 <h1><center><font color="#FFFFFF"> อพาร์ตเมนต์</font></center></h1>
 >>>>>>> 3a40203aaa338711c2b8e0733e04aff25f56286c:contact.php
