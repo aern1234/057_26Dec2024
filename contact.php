@@ -3,7 +3,11 @@
         <tr>
             <td width="23" rowspan="2">&nbsp;</td>
             <td height="119" colspan="2" bgcolor="#006600">
-                <h1><center><font color="#FFFFFF">33333อพาร์ตเมนต์</font></center></h1>
+<<<<<<< HEAD:contact.php.txt
+                <h1><center><font color="#FFFFFF">อพาร์ตเมนต์</font></center></h1>
+=======
+                <h1><center><font color="#FFFFFF"> อพาร์ตเมนต์</font></center></h1>
+>>>>>>> 3a40203aaa338711c2b8e0733e04aff25f56286c:contact.php
                 <?php include "Date.php"; ?>
             </td>
             <td width="43" rowspan="2">&nbsp;</td>
